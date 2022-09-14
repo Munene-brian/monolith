@@ -1,8 +1,8 @@
 # This file is used for convenience of local development.
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
 export POSTGRES_USERNAME=postgres
-export POSTGRES_PASSWORD=weqwsadnds1
-export POSTGRES_HOST=database-2.cd3mwuomtpgt.us-east-1.rds.amazonaws.com
+export POSTGRES_PASSWORD=djwdw7812w
+export POSTGRES_HOST=database-1.cd3mwuomtpgt.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=postgres
 export AWS_BUCKET=arn:aws:s3:::bikobucket
 export AWS_REGION=us-east-1
